@@ -17,6 +17,7 @@ I enjoy turning complex problems into clean, maintainable solutions using modern
 ### Frontend
 [![React][React.js]][React-url]
 [![Next][Next.js]][Next-url]
+[![React Router][React-router]][React-router-url]
 [![Vue][Vue.js]][Vue-url]
 [![Angular][Angular.io]][Angular-url]
 [![TypeScript][TypeScript]][TS-url]
@@ -58,9 +59,14 @@ I enjoy turning complex problems into clean, maintainable solutions using modern
 
 ## Featured Projects
 
-- **🔹 Trackr - Expense Tracker** – Angular | TypeScript | SASS
-- **🔹 Plato** – Vue | TypeScript | SASS + C# .NET | MSSQL
-- **🔹 Audit Log** – React | React Router | TypeScript + Tailwind | | Node.js | Express | MySQL
+**🔹 Portfolio**
+[![React][React.js]][React-url] | [![Next][Next.js]][Next-url] | [![TypeScript][TypeScript]][TS-url] | [![Tailwind][Tailwind]][Tailwind-url]
+**🔹 Trackr - Expense Tracker** 
+[![Angular][Angular.io]][Angular-url] | [![TypeScript][TypeScript]][TS-url] | [![Sass][Sass]][Sass-url]
+**🔹 Plato** 
+[![Vue][Vue.js]][Vue-url] | [![TypeScript][TypeScript]][TS-url] | [![Sass][Sass]][Sass-url] + [![C#][C#]][C#-url] [![.NET][Dotnet]][Dotnet-url] | [![MSSQL][MSSQL]][MSSQL-url]
+**🔹 Audit Log** 
+[![React][React.js]][React-url] | [![React Router][React-router]][React-router-url] | [![TypeScript][TypeScript]][TS-url] | [![Tailwind][Tailwind]][Tailwind-url] | [![Node][Node.js]][Node-url] | [![MySQL][MySQL]][MySQL-url]
 
 *(More projects coming soon 🚧)*
 ---
@@ -115,3 +121,5 @@ I enjoy turning complex problems into clean, maintainable solutions using modern
 [Postman-url]: https://www.postman.com
 [Prisma]: https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white
 [Prisma-url]: https://www.prisma.io
+[React-router]: https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router
+[React-router-url]: https://reactrouter.com
