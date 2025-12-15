@@ -60,13 +60,13 @@ I enjoy turning complex problems into clean, maintainable solutions using modern
 ## Featured Projects
 
 **🔹 Portfolio**
-[![React][React.js]][React-url] | [![Next][Next.js]][Next-url] | [![TypeScript][TypeScript]][TS-url] | [![Tailwind][Tailwind]][Tailwind-url]
+[![React][React.js]][React-url] [![Next][Next.js]][Next-url] [![TypeScript][TypeScript]][TS-url] [![Tailwind][Tailwind]][Tailwind-url]
 **🔹 Trackr - Expense Tracker** 
-[![Angular][Angular.io]][Angular-url] | [![TypeScript][TypeScript]][TS-url] | [![Sass][Sass]][Sass-url]
+[![Angular][Angular.io]][Angular-url] [![TypeScript][TypeScript]][TS-url] [![Sass][Sass]][Sass-url]
 **🔹 Plato** 
-[![Vue][Vue.js]][Vue-url] | [![TypeScript][TypeScript]][TS-url] | [![Sass][Sass]][Sass-url] + [![C#][C#]][C#-url] [![.NET][Dotnet]][Dotnet-url] | [![MSSQL][MSSQL]][MSSQL-url]
+[![Vue][Vue.js]][Vue-url] [![TypeScript][TypeScript]][TS-url] [![Sass][Sass]][Sass-url] [![C#][C#]][C#-url] [![.NET][Dotnet]][Dotnet-url] [![MSSQL][MSSQL]][MSSQL-url]
 **🔹 Audit Log** 
-[![React][React.js]][React-url] | [![React Router][React-router]][React-router-url] | [![TypeScript][TypeScript]][TS-url] | [![Tailwind][Tailwind]][Tailwind-url] | [![Node][Node.js]][Node-url] | [![MySQL][MySQL]][MySQL-url]
+[![React][React.js]][React-url] [![React Router][React-router]][React-router-url] [![TypeScript][TypeScript]][TS-url] [![Tailwind][Tailwind]][Tailwind-url] [![Node][Node.js]][Node-url] [![MySQL][MySQL]][MySQL-url]
 
 *(More projects coming soon 🚧)*
 ---
