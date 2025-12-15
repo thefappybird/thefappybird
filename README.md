@@ -7,27 +7,43 @@ I enjoy turning complex problems into clean, maintainable solutions using modern
 
 ---
 
-## Tech Stack
+## 🔗 Connect with Me
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+---
+
+## 🧑‍💻 Tech Stack
 
 ### Frontend
-- React, Next.js, Vue.js, Angular  
-- JavaScript (ES6+), TypeScript  
-- Tailwind CSS, SASS, CSS3, HTML5  
+[![React][React.js]][React-url]
+[![Next][Next.js]][Next-url]
+[![Vue][Vue.js]][Vue-url]
+[![Angular][Angular.io]][Angular-url]
+[![TypeScript][TypeScript]][TS-url]
+[![Sass][Sass]][Sass-url]
+[![Tailwind][Tailwind]][Tailwind-url]
+
+---
 
 ### Backend
-- Node.js, Express  
-- C# .NET  
-- RESTful APIs, Authentication (JWT, Cookies)
+[![Node][Node.js]][Node-url]
+[![.NET][Dotnet]][Dotnet-url]
+[![C#][C#]][C#-url]
+
+---
 
 ### Databases
-- MongoDB  
-- MySQL
-- Microsoft SQL Server  
+[![MongoDB][Mongo]][Mongo-url]
+[![MySQL][MySQL]][MySQL-url]
+[![MSSQL][MSSQL]][MSSQL-url]
 
-### DevOps & Tools
-- Git & GitHub  
-- Vercel, Azure  
-- Postman
+---
+
+### Cloud, ORM & Tools
+[![Vercel][Vercel]][Vercel-url]
+[![Azure][Azure]][Azure-url]
+[![Prisma][Prisma]][Prisma-url]
+[![Postman][Postman]][Postman-url]
 
 ---
 
@@ -61,3 +77,41 @@ I enjoy turning complex problems into clean, maintainable solutions using modern
 ---
 
 ⭐ *If you like my work, feel free to star my repositories!*
+
+
+[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[Vue-url]: https://vuejs.org/
+[TypeScript]: https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square
+[TS-url]: https://www.typescriptlang.org
+[Sass]: https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white
+[Dotnet]: https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white
+[Dotnet-url]: https://dotnet.microsoft.com/en-us/
+[C#]: https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white
+[C#-url]: https://dotnet.microsoft.com/en-us/languages/csharp
+[Sass-url]: https://sass-lang.com
+[MSSQL]: https://img.shields.io/badge/Microsoft_SQL_Server-CC2927
+[MSSQL-url]: https://www.microsoft.com/en-us/sql-server
+[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+[Angular-url]: https://angular.io/
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/alexander-banaag
+[Node.js]: https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white
+[Node-url]: https://nodejs.org/en
+[Tailwind]: https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC
+[Tailwind-url]: https://tailwindcss.com
+[Mongo]: https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white
+[Mongo-url]: https://www.mongodb.com
+[MySQL]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+[MySQL-url]: https://www.mysql.com
+[Vercel]: https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
+[Vercel-url]: https://www.vercel.com
+[Azure]: https://img.shields.io/badge/Microsoft-Azure-blue?logo=microsoftazure&logoColor=white&style=plastic
+[Azure-url]:https://azure.microsoft.com/en-us/
+[Postman]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white
+[Postman-url]: https://www.postman.com
+[Prisma]: https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white
+[Prisma-url]: https://www.prisma.io
