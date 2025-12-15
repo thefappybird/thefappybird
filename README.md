@@ -7,10 +7,6 @@ I enjoy turning complex problems into clean, maintainable solutions using modern
 
 ---
 
-## 🔗 Connect with Me
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
----
 
 ## 🧑‍💻 Tech Stack
 
@@ -76,7 +72,7 @@ I enjoy turning complex problems into clean, maintainable solutions using modern
 ---
 
 ## 📫 Let’s Connect
-- 💼 LinkedIn: **linkedin.com/in/alexander-banaag**
+- 💼 LinkedIn: [![LinkedIn][linkedin-shield]][linkedin-url]
 - 📧 Email: **alex.banaag1@gmail.com**
 - 🌍 Location: Dubai, UAE
 
