@@ -15,10 +15,12 @@ I enjoy turning complex problems into clean, maintainable solutions using modern
 [![Next][Next.js]][Next-url]
 [![React Router][React-router]][React-router-url]
 [![Vue][Vue.js]][Vue-url]
+[![Nuxt][Nuxt.js]][Nuxt-url]
 [![Angular][Angular.io]][Angular-url]
 [![TypeScript][TypeScript]][TS-url]
 [![Sass][Sass]][Sass-url]
 [![Tailwind][Tailwind]][Tailwind-url]
+
 
 ---
 
@@ -80,7 +82,8 @@ I enjoy turning complex problems into clean, maintainable solutions using modern
 
 ⭐ *If you like my work, feel free to star my repositories!*
 
-
+[Nuxt.js]: https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff
+[Nuxt-url]: https://nuxt.com/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
 [TypeScript]: https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square
