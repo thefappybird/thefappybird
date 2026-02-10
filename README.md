@@ -1,7 +1,7 @@
 # Hi, I'm Alexander Banaag
 
-**Full-Stack Web Developer** with **3+ years of experience** building scalable, user-focused web applications.  
-Currently based in **Dubai, UAE** and open to **Junior–Mid level Full-Stack / Frontend / Backend roles**.
+**Full-Stack Web Developer** with **4+ years of experience** building scalable, user-focused web applications.  
+Currently based in **Dubai, UAE** and open to **Junior–Mid level Frontend Roles**.
 
 I enjoy turning complex problems into clean, maintainable solutions using modern web technologies.
 
