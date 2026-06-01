@@ -1,40 +1,40 @@
-# Hi, I'm Alexander Banaag
+# Hey, I'm Alexander
 
-**Frontend Developer | Product-Minded UI Engineer | 4+ Years Building Business-Critical Web Applications**
+I build frontend experiences that try very hard not to annoy people.
 
-I'm a frontend developer based in **Dubai, UAE**, focused on building clean, scalable, and business-aligned web applications.
+Most of my work lives somewhere between **clean UI**, **messy business rules**, and **“wait, why does this dashboard have 12 edge cases?”**
 
-My work is not limited to delivering screens. I care about understanding the product, the users, the business workflow, and the reason a feature exists. I have built and maintained applications used for **GRC SaaS/PaaS platforms, internal QA systems, CRM tools, hotel operations, dashboards, permissions, localization, and real-time data experiences**.
+I’m a frontend developer based in **Dubai**, currently building web applications for SaaS, internal tools, dashboards, workflows, and other things that usually start simple and then become suspiciously complex.
 
-I enjoy turning complex business logic into interfaces that are maintainable for developers, intuitive for users, and useful for the business.
-
----
-
-## What I Bring
-
-* **Frontend engineering maturity** — component-driven architecture, maintainable code, scalable UI patterns, and clean implementation.
-* **Business-first product thinking** — experience translating client requirements and operational workflows into usable features.
-* **Enterprise application experience** — dashboards, audit trails, permission systems, internal tools, CRM workflows, and compliance-related platforms.
-* **Modern frontend development** — React, Next.js, Angular, Vue, TypeScript, Tailwind CSS, SASS, REST APIs, and WebSocket integrations.
-* **Cross-functional collaboration** — comfortable working with product teams, backend developers, clients, and business stakeholders.
-* **User-focused execution** — building interfaces that solve real workflow problems, not just visual deliverables.
+I like making interfaces that feel clear, fast, and useful — not just “done.”
 
 ---
 
-## Current Focus
+## The Kind of Developer I’m Becoming
 
-I currently work on a **GRC SaaS/PaaS platform for GCC enterprises**, helping build a centralized application for managing:
+I used to think frontend was mostly about turning designs into screens.
 
-* Risk management workflows
-* Compliance tracking
-* Maturity assessments
-* Business dashboards
-* Arabic localization and RTL support
-* Role-based permissions
-* Real-time status updates
-* Client-facing product features
+Now I see it more like this:
 
-This has strengthened how I think about frontend development: not only as UI implementation, but as a bridge between **business goals, user behavior, product strategy, and technical delivery**.
+* understand what the business is actually trying to solve
+* make complicated workflows feel less intimidating
+* build UI that users can trust
+* write code that future developers will not curse at
+* ship features that make sense, not just features that exist
+
+That mindset has shaped how I build.
+
+---
+
+## Things I Actually Enjoy Building
+
+* Dashboards that turn chaos into something readable
+* Permission systems that do not become spaghetti
+* Forms and workflows that guide users instead of punishing them
+* Real-time interfaces that make data feel alive
+* Multilingual / RTL experiences for wider accessibility
+* Internal tools that quietly carry an entire business process
+* UI components that are reusable without becoming over-engineered monsters
 
 ---
 
@@ -76,101 +76,95 @@ This has strengthened how I think about frontend development: not only as UI imp
 
 ---
 
+I’m mostly frontend-focused, but I like understanding enough of the backend and product logic to avoid building pretty things that do the wrong job.
+
+---
+
 ## Featured Work
 
-### GRC SaaS/PaaS Platform
+### GRC SaaS / PaaS Platform
 
-**Frontend Developer — Enterprise Risk, Compliance, and Assessment Platform**
+Currently working on a platform that helps businesses manage risk, compliance, assessments, permissions, dashboards, and real-time status updates in one place.
 
-A centralized platform for GCC businesses to manage compliance workflows, risk visibility, assessments, permissions, and business dashboards.
+Basically: a lot of serious business logic wearing a frontend costume.
 
-**Key contributions:**
+What I’ve worked on:
 
-* Built data-rich dashboards for risk, compliance, and maturity tracking.
-* Developed user-centric workflows that translated complex GRC concepts into usable interfaces.
-* Implemented Arabic localization with RTL support for GCC market readiness.
-* Integrated WebSocket-powered real-time updates for dashboard and status visibility.
-* Built granular permission management for secure role-based access.
-* Worked directly with clients to understand business needs and shape product features.
-
-**Tech used:** React, TypeScript, Tailwind CSS, REST APIs, WebSocket, i18n, RBAC
+* data-heavy dashboards
+* Arabic localization and RTL support
+* real-time WebSocket updates
+* role-based permission management
+* compliance and assessment workflows
+* client-driven product improvements
 
 ---
 
 ### Internal QA Ticketing System
 
-**Frontend Developer — Enterprise Internal Tool**
+Worked on a QA ticketing system used to track and manage quality issues across an organization.
 
-A mission-critical QA ticketing platform used to track, route, and resolve quality issues across an organization.
+My favorite part: taking old, bulky frontend code and making it cleaner, easier to work with, and less painful for the next developer.
 
-**Key contributions:**
+Built and improved:
 
-* Refactored legacy frontend code into a cleaner component-based architecture.
-* Improved maintainability, responsiveness, and developer experience.
-* Built a ticket history system to show chronological ticket activity and state changes.
-* Helped improve the reliability and usability of an internal operational workflow.
-
-**Tech used:** Angular, TypeScript, SASS, REST APIs
+* reusable frontend components
+* ticket history views
+* cleaner application flow
+* better structure for long-term maintenance
 
 ---
 
-### UAE Sales CRM
+### CRM for a Sales Team
 
-**Full Stack Developer — Internal CRM for Sales Operations**
+Built a CRM system for a UAE-based sales company as the sole developer.
 
-A custom CRM system built for a UAE-based sales company to manage leads, activity tracking, and daily sales workflows.
-
-**Key contributions:**
-
-* Built the application from the ground up as the sole developer.
-* Designed reusable React components and end-to-end data flows.
-* Developed Node.js REST APIs aligned with actual sales team operations.
-* Managed the delivery lifecycle from requirements to deployment and post-launch support.
-
-**Tech used:** React, Node.js, REST APIs, Database Design
+This was one of those projects where the real challenge was not just the code — it was understanding how the team actually worked every day, then shaping the system around that.
 
 ---
 
 ### Hotel Management System
 
-**Full Stack Developer — Enterprise Operations Platform**
+Helped build a hotel management system for day-to-day operations, staff workflows, and sales tracking.
 
-A hotel management platform built for a prominent hotel in Mindanao to support day-to-day operations, staff coordination, sales tracking, and front desk workflows.
-
-**Key contributions:**
-
-* Built frontend interfaces used by hotel staff in daily operations.
-* Developed backend APIs and database structures for operational reliability.
-* Worked directly with the client to understand workflows and refine feature scope.
-* Delivered a system that reduced manual friction and improved management visibility.
-
-**Tech used:** Next.js, Angular, .NET, C#, Microsoft SQL Server
+This taught me that good software does not need to be flashy to matter. Sometimes the best software is the thing people open every morning because their work depends on it.
 
 ---
 
-## How I Think About Software
+## My Developer Compass
 
-Good software is not just a list of completed tickets.
+```txt
+Readable > clever
+Useful > flashy
+Simple > over-engineered
+Maintainable > impressive-looking
+User trust > feature count
+```
 
-To me, a strong developer should understand:
+I still like flashy things though.
 
-* Why the feature matters
-* Who will use it
-* What business problem it solves
-* How it affects the larger system
-* Whether it is maintainable after delivery
-* Whether the interface helps users move faster, make better decisions, or reduce friction
-
-That is the mindset I bring to frontend development.
+Just the useful kind.
 
 ---
-## What I Focus On
 
-* Building scalable frontend systems with React, Next.js, Angular, Vue, and TypeScript
-* Translating complex business workflows into clear, usable interfaces
-* Creating dashboards, internal tools, permission systems, and real-time UI features
-* Writing maintainable, component-driven code that teams can build on
-* Understanding the business reason behind each feature, not just the technical task
+## Currently Exploring
+
+* Better dashboard architecture
+* SaaS product patterns
+* Design systems
+* Accessibility
+* Realtime frontend experiences
+* Cleaner state management
+* Building products that feel good to use
+
+---
+
+## Outside the Code
+
+I’m interested in products, design, business workflows, and why some apps feel effortless while others feel like paperwork with a login screen.
+
+I like developers who care about the user, the product, and the codebase at the same time.
+
+That’s the kind of developer I’m trying to be.
 
 ---
 
@@ -182,6 +176,3 @@ That is the mindset I bring to frontend development.
 * Email: **[alex.banaag1@gmail.com](mailto:alex.banaag1@gmail.com)**
 * Location: **Dubai, UAE**
 
----
-
-Thanks for visiting my profile. I'm always interested in building products that are useful, maintainable, and aligned with real business needs.
