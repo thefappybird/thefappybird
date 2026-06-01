@@ -1,124 +1,187 @@
 # Hi, I'm Alexander Banaag
 
-**Frontend Web Developer** with **4+ years of experience** building scalable, user-focused web applications.  
-Currently based in **Dubai, UAE** and open to **Junior–Mid level Frontend Roles**.
+**Frontend Developer | Product-Minded UI Engineer | 4+ Years Building Business-Critical Web Applications**
 
-I enjoy turning complex problems into clean, maintainable solutions using modern web technologies.
+I'm a frontend developer based in **Dubai, UAE**, focused on building clean, scalable, and business-aligned web applications.
 
----
+My work is not limited to delivering screens. I care about understanding the product, the users, the business workflow, and the reason a feature exists. I have built and maintained applications used for **GRC SaaS/PaaS platforms, internal QA systems, CRM tools, hotel operations, dashboards, permissions, localization, and real-time data experiences**.
 
-
-## 🧑‍💻 Tech Stack
-
-### Frontend
-[![React][React.js]][React-url]
-[![Next][Next.js]][Next-url]
-[![React Router][React-router]][React-router-url]
-[![Vue][Vue.js]][Vue-url]
-[![Nuxt][Nuxt.js]][Nuxt-url]
-[![Angular][Angular.io]][Angular-url]
-[![TypeScript][TypeScript]][TS-url]
-[![Sass][Sass]][Sass-url]
-[![Tailwind][Tailwind]][Tailwind-url]
-
-
----
-
-### Backend
-[![Node][Node.js]][Node-url]
-[![.NET][Dotnet]][Dotnet-url]
-[![C#][C#]][C#-url]
-
----
-
-### Databases
-[![MongoDB][Mongo]][Mongo-url]
-[![MySQL][MySQL]][MySQL-url]
-[![MSSQL][MSSQL]][MSSQL-url]
-
----
-
-### Cloud, ORM & Tools
-[![Vercel][Vercel]][Vercel-url]
-[![Azure][Azure]][Azure-url]
-[![Prisma][Prisma]][Prisma-url]
-[![Postman][Postman]][Postman-url]
+I enjoy turning complex business logic into interfaces that are maintainable for developers, intuitive for users, and useful for the business.
 
 ---
 
 ## What I Bring
-- ✅ Production-ready full-stack applications  
-- ✅ Clean, readable, and maintainable code  
-- ✅ Strong understanding of REST APIs and databases  
-- ✅ Experience with authentication, authorization & security basics  
-- ✅ Collaborative team player with real-world project experience
+
+* **Frontend engineering maturity** — component-driven architecture, maintainable code, scalable UI patterns, and clean implementation.
+* **Business-first product thinking** — experience translating client requirements and operational workflows into usable features.
+* **Enterprise application experience** — dashboards, audit trails, permission systems, internal tools, CRM workflows, and compliance-related platforms.
+* **Modern frontend development** — React, Next.js, Angular, Vue, TypeScript, Tailwind CSS, SASS, REST APIs, and WebSocket integrations.
+* **Cross-functional collaboration** — comfortable working with product teams, backend developers, clients, and business stakeholders.
+* **User-focused execution** — building interfaces that solve real workflow problems, not just visual deliverables.
 
 ---
 
-## Featured Projects
+## Current Focus
 
-### 🔹 Portfolio
-[![React][React.js]][React-url] [![Next][Next.js]][Next-url] [![TypeScript][TypeScript]][TS-url] [![Tailwind][Tailwind]][Tailwind-url]
-### 🔹 Trackr - Expense Tracker** 
-[![Angular][Angular.io]][Angular-url] [![TypeScript][TypeScript]][TS-url] [![Sass][Sass]][Sass-url]
-### 🔹 Plato** 
-[![Vue][Vue.js]][Vue-url] [![TypeScript][TypeScript]][TS-url] [![Sass][Sass]][Sass-url] [![C#][C#]][C#-url] [![.NET][Dotnet]][Dotnet-url] [![MSSQL][MSSQL]][MSSQL-url]
-### 🔹 Audit Log** 
-[![React][React.js]][React-url] [![React Router][React-router]][React-router-url] [![TypeScript][TypeScript]][TS-url] [![Tailwind][Tailwind]][Tailwind-url] [![Node][Node.js]][Node-url] [![MySQL][MySQL]][MySQL-url]
+I currently work on a **GRC SaaS/PaaS platform for GCC enterprises**, helping build a centralized application for managing:
 
-*(More projects coming soon 🚧)*
----
+* Risk management workflows
+* Compliance tracking
+* Maturity assessments
+* Business dashboards
+* Arabic localization and RTL support
+* Role-based permissions
+* Real-time status updates
+* Client-facing product features
 
-## 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thefappybird&layout=compact&theme=tokyonight)
----
-
-## 📫 Let’s Connect
-- 💼 LinkedIn: [![LinkedIn][linkedin-shield]][linkedin-url]
-- 📧 Email: **alex.banaag1@gmail.com**
-- 🌍 Location: Dubai, UAE
+This has strengthened how I think about frontend development: not only as UI implementation, but as a bridge between **business goals, user behavior, product strategy, and technical delivery**.
 
 ---
 
-⭐ *If you like my work, feel free to star my repositories!*
+## Core Tech Stack
 
-[Nuxt.js]: https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff
-[Nuxt-url]: https://nuxt.com/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[TypeScript]: https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square
-[TS-url]: https://www.typescriptlang.org
-[Sass]: https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white
-[Dotnet]: https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white
-[Dotnet-url]: https://dotnet.microsoft.com/en-us/
-[C#]: https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white
-[C#-url]: https://dotnet.microsoft.com/en-us/languages/csharp
-[Sass-url]: https://sass-lang.com
-[MSSQL]: https://img.shields.io/badge/Microsoft_SQL_Server-CC2927
-[MSSQL-url]: https://www.microsoft.com/en-us/sql-server
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/alexander-banaag
-[Node.js]: https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white
-[Node-url]: https://nodejs.org/en
-[Tailwind]: https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC
-[Tailwind-url]: https://tailwindcss.com
-[Mongo]: https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white
-[Mongo-url]: https://www.mongodb.com
-[MySQL]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-[MySQL-url]: https://www.mysql.com
-[Vercel]: https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
-[Vercel-url]: https://www.vercel.com
-[Azure]: https://img.shields.io/badge/Microsoft-Azure-blue?logo=microsoftazure&logoColor=white&style=plastic
-[Azure-url]:https://azure.microsoft.com/en-us/
-[Postman]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white
-[Postman-url]: https://www.postman.com
-[Prisma]: https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white
-[Prisma-url]: https://www.prisma.io
-[React-router]: https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router
-[React-router-url]: https://reactrouter.com
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge\&logo=nuxtdotjs\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+
+### Styling & UI
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge\&logo=tailwindcss\&logoColor=38BDF8)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge\&logo=sass\&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_UI-111827?style=for-the-badge)
+![RTL Support](https://img.shields.io/badge/RTL_Support-374151?style=for-the-badge)
+
+### Backend & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-1F2937?style=for-the-badge)
+![WebSocket](https://img.shields.io/badge/WebSocket-111827?style=for-the-badge)
+
+### Databases & Tools
+
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge\&logo=prisma\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+
+---
+
+## Featured Work
+
+### GRC SaaS/PaaS Platform
+
+**Frontend Developer — Enterprise Risk, Compliance, and Assessment Platform**
+
+A centralized platform for GCC businesses to manage compliance workflows, risk visibility, assessments, permissions, and business dashboards.
+
+**Key contributions:**
+
+* Built data-rich dashboards for risk, compliance, and maturity tracking.
+* Developed user-centric workflows that translated complex GRC concepts into usable interfaces.
+* Implemented Arabic localization with RTL support for GCC market readiness.
+* Integrated WebSocket-powered real-time updates for dashboard and status visibility.
+* Built granular permission management for secure role-based access.
+* Worked directly with clients to understand business needs and shape product features.
+
+**Tech used:** React, TypeScript, Tailwind CSS, REST APIs, WebSocket, i18n, RBAC
+
+---
+
+### Internal QA Ticketing System
+
+**Frontend Developer — Enterprise Internal Tool**
+
+A mission-critical QA ticketing platform used to track, route, and resolve quality issues across an organization.
+
+**Key contributions:**
+
+* Refactored legacy frontend code into a cleaner component-based architecture.
+* Improved maintainability, responsiveness, and developer experience.
+* Built a ticket history system to show chronological ticket activity and state changes.
+* Helped improve the reliability and usability of an internal operational workflow.
+
+**Tech used:** Angular, TypeScript, SASS, REST APIs
+
+---
+
+### UAE Sales CRM
+
+**Full Stack Developer — Internal CRM for Sales Operations**
+
+A custom CRM system built for a UAE-based sales company to manage leads, activity tracking, and daily sales workflows.
+
+**Key contributions:**
+
+* Built the application from the ground up as the sole developer.
+* Designed reusable React components and end-to-end data flows.
+* Developed Node.js REST APIs aligned with actual sales team operations.
+* Managed the delivery lifecycle from requirements to deployment and post-launch support.
+
+**Tech used:** React, Node.js, REST APIs, Database Design
+
+---
+
+### Hotel Management System
+
+**Full Stack Developer — Enterprise Operations Platform**
+
+A hotel management platform built for a prominent hotel in Mindanao to support day-to-day operations, staff coordination, sales tracking, and front desk workflows.
+
+**Key contributions:**
+
+* Built frontend interfaces used by hotel staff in daily operations.
+* Developed backend APIs and database structures for operational reliability.
+* Worked directly with the client to understand workflows and refine feature scope.
+* Delivered a system that reduced manual friction and improved management visibility.
+
+**Tech used:** Next.js, Angular, .NET, C#, Microsoft SQL Server
+
+---
+
+## How I Think About Software
+
+Good software is not just a list of completed tickets.
+
+To me, a strong developer should understand:
+
+* Why the feature matters
+* Who will use it
+* What business problem it solves
+* How it affects the larger system
+* Whether it is maintainable after delivery
+* Whether the interface helps users move faster, make better decisions, or reduce friction
+
+That is the mindset I bring to frontend development.
+
+---
+## What I Focus On
+
+* Building scalable frontend systems with React, Next.js, Angular, Vue, and TypeScript
+* Translating complex business workflows into clear, usable interfaces
+* Creating dashboards, internal tools, permission systems, and real-time UI features
+* Writing maintainable, component-driven code that teams can build on
+* Understanding the business reason behind each feature, not just the technical task
+
+---
+
+## Let's Connect
+
+* Portfolio: [my-portfolio-unp7.vercel.app](https://my-portfolio-unp7.vercel.app)
+* GitHub: [github.com/thefappybird](https://github.com/thefappybird)
+* LinkedIn: [linkedin.com/in/alexander-banaag](https://linkedin.com/in/alexander-banaag)
+* Email: **[alex.banaag1@gmail.com](mailto:alex.banaag1@gmail.com)**
+* Location: **Dubai, UAE**
+
+---
+
+Thanks for visiting my profile. I'm always interested in building products that are useful, maintainable, and aligned with real business needs.
