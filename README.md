@@ -1,171 +1,80 @@
-# Hey, I'm Alexander
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi%20%F0%9F%91%8B!%20I'm%20Alexander%20and%20I'm%20a%20Frontend%20Developer%20from%20Dubai!&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
 
-I build frontend experiences that try very hard not to annoy people.
+###
 
-Most of my work lives somewhere between **clean UI**, **messy business rules**, and **“wait, why does this dashboard have 12 edge cases?”**
+<h2 align="center">Front End Developer with 4+ YoE building attractive business solutions.</h2>
 
-I’m a frontend developer based in **Dubai**, currently building web applications for SaaS, internal tools, dashboards, workflows, and other things that usually start simple and then become suspiciously complex.
+###
 
-I like making interfaces that feel clear, fast, and useful — not just “done.”
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=thefappybird&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
----
+###
 
-## The Kind of Developer I’m Becoming
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+</div>
 
-I used to think frontend was mostly about turning designs into screens.
+###
 
-Now I see it more like this:
+<div align="center">
+  <a href="linkedin.com/in/alexander-banaag" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="alex.banaag1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="?text=Hey%20Alex,%20let's%20work%20together!" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+</div>
 
-* understand what the business is actually trying to solve
-* make complicated workflows feel less intimidating
-* build UI that users can trust
-* write code that future developers will not curse at
-* ship features that make sense, not just features that exist
+## What I Bring
 
-That mindset has shaped how I build.
-
----
-
-## Things I Actually Enjoy Building
-
-* Dashboards that turn chaos into something readable
-* Permission systems that do not become spaghetti
-* Forms and workflows that guide users instead of punishing them
-* Real-time interfaces that make data feel alive
-* Multilingual / RTL experiences for wider accessibility
-* Internal tools that quietly carry an entire business process
-* UI components that are reusable without becoming over-engineered monsters
-
----
-
-## Core Tech Stack
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge\&logo=nuxtdotjs\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-
-### Styling & UI
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge\&logo=tailwindcss\&logoColor=38BDF8)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge\&logo=sass\&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_UI-111827?style=for-the-badge)
-![RTL Support](https://img.shields.io/badge/RTL_Support-374151?style=for-the-badge)
-
-### Backend & APIs
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-1F2937?style=for-the-badge)
-![WebSocket](https://img.shields.io/badge/WebSocket-111827?style=for-the-badge)
-
-### Databases & Tools
-
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge\&logo=prisma\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+- ✅ Production-ready full-stack applications  
+- ✅ Clean, readable, and maintainable code  
+- ✅ Strong understanding of REST APIs and databases  
+- ✅ Real-time interfaces that make data feel alive
+- ✅ Collaborative team player with real-world project experience
+- ✅ Multilingual / RTL experiences for wider accessibility
+- ✅ Internal tools that quietly carry an entire business process
+- ✅ UI components that are reusable without becoming over-engineered monsters
 
 ---
 
-I’m mostly frontend-focused, but I like understanding enough of the backend and product logic to avoid building pretty things that do the wrong job.
+## Featured Projects
 
----
+### 🔹 Portfolio
+[![React][React.js]][React-url] [![Next][Next.js]][Next-url] [![TypeScript][TypeScript]][TS-url] [![Tailwind][Tailwind]][Tailwind-url]
+### 🔹 Trackr - Expense Tracker** 
+[![Angular][Angular.io]][Angular-url] [![TypeScript][TypeScript]][TS-url] [![Sass][Sass]][Sass-url]
+### 🔹 Plato** 
+[![Vue][Vue.js]][Vue-url] [![TypeScript][TypeScript]][TS-url] [![Sass][Sass]][Sass-url] [![C#][C#]][C#-url] [![.NET][Dotnet]][Dotnet-url] [![MSSQL][MSSQL]][MSSQL-url]
+### 🔹 Audit Log** 
+[![React][React.js]][React-url] [![React Router][React-router]][React-router-url] [![TypeScript][TypeScript]][TS-url] [![Tailwind][Tailwind]][Tailwind-url] [![Node][Node.js]][Node-url] [![MySQL][MySQL]][MySQL-url]
 
-## Featured Work
-
-### GRC SaaS / PaaS Platform
-
-Currently working on a platform that helps businesses manage risk, compliance, assessments, permissions, dashboards, and real-time status updates in one place.
-
-Basically: a lot of serious business logic wearing a frontend costume.
-
-What I’ve worked on:
-
-* data-heavy dashboards
-* Arabic localization and RTL support
-* real-time WebSocket updates
-* role-based permission management
-* compliance and assessment workflows
-* client-driven product improvements
-
----
-
-### Internal QA Ticketing System
-
-Worked on a QA ticketing system used to track and manage quality issues across an organization.
-
-My favorite part: taking old, bulky frontend code and making it cleaner, easier to work with, and less painful for the next developer.
-
-Built and improved:
-
-* reusable frontend components
-* ticket history views
-* cleaner application flow
-* better structure for long-term maintenance
-
----
-
-### CRM for a Sales Team
-
-Built a CRM system for a UAE-based sales company as the sole developer.
-
-This was one of those projects where the real challenge was not just the code — it was understanding how the team actually worked every day, then shaping the system around that.
-
----
-
-### Hotel Management System
-
-Helped build a hotel management system for day-to-day operations, staff workflows, and sales tracking.
-
-This taught me that good software does not need to be flashy to matter. Sometimes the best software is the thing people open every morning because their work depends on it.
-
----
-
-## My Developer Compass
-
-```txt
-Readable > clever
-Useful > flashy
-Simple > over-engineered
-Maintainable > impressive-looking
-User trust > feature count
-```
-
-I still like flashy things though.
-
-Just the useful kind.
-
----
-
-## Currently Exploring
-
-* Better dashboard architecture
-* SaaS product patterns
-* Design systems
-* Accessibility
-* Realtime frontend experiences
-* Cleaner state management
-* Building products that feel good to use
-
----
-
-## Outside the Code
-
-I’m interested in products, design, business workflows, and why some apps feel effortless while others feel like paperwork with a login screen.
-
-I like developers who care about the user, the product, and the codebase at the same time.
-
-That’s the kind of developer I’m trying to be.
-
+*(More projects coming soon 🚧)*
 ---
 
 ## Let's Connect
@@ -176,3 +85,43 @@ That’s the kind of developer I’m trying to be.
 * Email: **[alex.banaag1@gmail.com](mailto:alex.banaag1@gmail.com)**
 * Location: **Dubai, UAE**
 
+[Nuxt.js]: https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff
+[Nuxt-url]: https://nuxt.com/
+[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[Vue-url]: https://vuejs.org/
+[TypeScript]: https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square
+[TS-url]: https://www.typescriptlang.org
+[Sass]: https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white
+[Dotnet]: https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white
+[Dotnet-url]: https://dotnet.microsoft.com/en-us/
+[C#]: https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white
+[C#-url]: https://dotnet.microsoft.com/en-us/languages/csharp
+[Sass-url]: https://sass-lang.com
+[MSSQL]: https://img.shields.io/badge/Microsoft_SQL_Server-CC2927
+[MSSQL-url]: https://www.microsoft.com/en-us/sql-server
+[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+[Angular-url]: https://angular.io/
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/alexander-banaag
+[Node.js]: https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white
+[Node-url]: https://nodejs.org/en
+[Tailwind]: https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC
+[Tailwind-url]: https://tailwindcss.com
+[Mongo]: https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white
+[Mongo-url]: https://www.mongodb.com
+[MySQL]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+[MySQL-url]: https://www.mysql.com
+[Vercel]: https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
+[Vercel-url]: https://www.vercel.com
+[Azure]: https://img.shields.io/badge/Microsoft-Azure-blue?logo=microsoftazure&logoColor=white&style=plastic
+[Azure-url]:https://azure.microsoft.com/en-us/
+[Postman]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white
+[Postman-url]: https://www.postman.com
+[Prisma]: https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white
+[Prisma-url]: https://www.prisma.io
+[React-router]: https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router
+[React-router-url]: https://reactrouter.com
